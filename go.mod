@@ -1,4 +1,4 @@
-module github.com/unceentech/veego-cli/v1
+module github.com/unceentech/veego-cli
 
 go 1.20
 
